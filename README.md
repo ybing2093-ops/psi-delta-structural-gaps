@@ -8,4 +8,5 @@ This repository contains the PDF and LaTeX source package for the paper.
 
 ## Companion paper (QED)
 A standalone companion paper provides the full one-loop QED endpoint/path normalization computation.
-(Repository link to be added.)
+Repository: https://github.com/ybing2093-ops/endpoint-path-gaps-qed
+
