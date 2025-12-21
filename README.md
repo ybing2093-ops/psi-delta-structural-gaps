@@ -1,4 +1,6 @@
 # The Ψ–Δ Framework: Structural Gaps and Their Dynamics in Multi-Level Systems
+DOI: https://doi.org/10.5281/zenodo.18011370
+
 
 This repository contains the PDF and LaTeX source package for the paper.
 
