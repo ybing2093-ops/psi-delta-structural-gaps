@@ -3,7 +3,7 @@
 > Public record • reviewable • falsifiable (by counterexample or proof)
 
 ## What this repository is
-This repository publishes a technical longform paper. It does not ask for endorsement or permission.
+This repository publishes a technical longform paper. 
 It does one thing: it places a reviewable, falsifiable framework into the public record, so anyone can
 test it with counterexamples or proofs.
 
