@@ -1,3 +1,8 @@
+## Start here
+- Read **AUDIT.md** (executive summary): `./AUDIT.md`
+- Read the paper PDF: `./The_Psi_Delta_Framework.pdf`
+- Companion work (endpoint–path diagnostic): https://github.com/ybing2093-ops/endpoint-path-gaps-qed (DOI: https://doi.org/10.5281/zenodo.18414030)
+
 # The ψ–Δ Framework (Package-Locked Cross-Level Diagnostics)
 
 > Public record • reviewable • falsifiable (by counterexample or proof)
