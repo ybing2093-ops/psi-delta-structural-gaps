@@ -1,3 +1,4 @@
+Canonical entry: https://ybing2093-ops.github.io/
 ## Start here
 - Read **AUDIT.md** (executive summary): `./AUDIT.md`
 - Read the paper PDF: `./The_Psi_Delta_Framework.pdf`
